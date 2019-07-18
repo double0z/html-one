@@ -1,0 +1,30 @@
+[33mbb00c8f[m HEAD@{0}: merge dev: Merge made by the 'recursive' strategy.
+[33m9737fe9[m HEAD@{1}: checkout: moving from dev to master
+[33m0a49aee[m HEAD@{2}: commit: add seven
+[33m43508e5[m HEAD@{3}: checkout: moving from master to dev
+[33m9737fe9[m HEAD@{4}: checkout: moving from master to master
+[33m9737fe9[m HEAD@{5}: commit: add seven
+[33m43508e5[m HEAD@{6}: commit (merge): merge feature1
+[33mc5db2c8[m HEAD@{7}: commit: add six
+[33m12b02a4[m HEAD@{8}: checkout: moving from feature1 to master
+[33m59e9e05[m HEAD@{9}: commit: add five
+[33m12b02a4[m HEAD@{10}: checkout: moving from master to feature1
+[33m12b02a4[m HEAD@{11}: checkout: moving from feature1 to master
+[33m12b02a4[m HEAD@{12}: checkout: moving from master to feature1
+[33m12b02a4[m HEAD@{13}: merge dev: Fast-forward
+[33mf420da5[m HEAD@{14}: checkout: moving from dev to master
+[33m12b02a4[m HEAD@{15}: commit: add four
+[33mf420da5[m HEAD@{16}: checkout: moving from master to dev
+[33mf420da5[m HEAD@{17}: checkout: moving from master to master
+[33mf420da5[m HEAD@{18}: reset: moving to f420da5
+[33mf420da5[m HEAD@{19}: reset: moving to f420da5
+[33m664434a[m HEAD@{20}: checkout: moving from f420da5bad80c8980948b0c4105f87804c4f6833 to master
+[33mf420da5[m HEAD@{21}: commit: all
+[33m4495082[m HEAD@{22}: commit: add index
+[33ma11ba71[m HEAD@{23}: commit: second add
+[33m664434a[m HEAD@{24}: checkout: moving from 9ba1cb3d08243ee6e92822ba185f9360d117ff1c to 664434a
+[33m9ba1cb3[m HEAD@{25}: checkout: moving from master to 9ba1cb3
+[33m664434a[m HEAD@{26}: reset: moving to 664434a
+[33m9ba1cb3[m HEAD@{27}: reset: moving to 9ba1cb3
+[33m664434a[m HEAD@{28}: commit: add line
+[33m9ba1cb3[m HEAD@{29}: commit (initial): first commit
